@@ -1,0 +1,337 @@
+
+{
+    "webinars": [
+      {
+        "_id": "65d87eaf17134504fe201e8d",
+        "title": "Introduction to React.js",
+        "url": "introduction-to-react",
+        "speaker": 1,
+        "type": "Live Session",
+        "industry": "Technology",
+        "duration": 90,
+        "event": {
+          "date": "2024-04-15",
+          "time": "15:00",
+          "zone": "UTC"
+        },
+        "session": {
+          "live": {
+            "status": true,
+            "price": 199
+          },
+          "download": {
+            "status": true,
+            "price": 299
+          },
+          "transcript": {
+            "status": true,
+            "price": 299
+          }
+        },
+        "corporate": {
+          "status": false,
+          "price": 599,
+          "description": "Unlocking the power of React.js in building modern web applications."
+        }
+      },
+      {
+        "_id": "72f9d98c5ac54e3a9b1fdcb4",
+        "title": "Data Science for Beginners",
+        "url": "data-science-beginners",
+        "speaker": 4,
+        "type": "Recorded Session",
+        "industry": "Data Science",
+        "duration": 120,
+        "event": {
+          "date": "2024-05-10",
+          "time": "18:30",
+          "zone": "UTC"
+        },
+        "session": {
+          "live": {
+            "status": false,
+            "price": 199
+          },
+          "download": {
+            "status": true,
+            "price": 299
+          },
+          "transcript": {
+            "status": false,
+            "price": 229
+          }
+        },
+        "corporate": {
+          "status": false,
+          "price": 499,
+          "description": "Exploring the fundamentals of data science and its applications in real-world scenarios."
+        }
+      },
+      {
+        "_id": "8c4100a5a31745c289f1e543",
+        "title": "Building Scalable APIs with Django",
+        "url": "scalable-apis-django",
+        "speaker": 3,
+        "type": "Live Session",
+        "industry": "Web Development",
+        "duration": 90,
+        "event": {
+          "date": "2024-06-05",
+          "time": "14:00",
+          "zone": "UTC"
+        },
+        "session": {
+          "live": {
+            "status": true,
+            "price": 199
+          },
+          "download": {
+            "status": true,
+            "price": 299
+          },
+          "transcript": {
+            "status": true,
+            "price": 299
+          }
+        },
+        "corporate": {
+          "status": false,
+          "price": 549,
+          "description": "Discover the best practices for designing and implementing scalable APIs using Django framework."
+        }
+      },
+      {
+        "_id": "a8b29e62e2144d28a8eb5a48",
+        "title": "Machine Learning in Finance",
+        "url": "machine-learning-finance",
+        "speaker": 5,
+        "type": "Live Session",
+        "industry": "Finance",
+        "duration": 120,
+        "event": {
+          "date": "2024-06-20",
+          "time": "12:00",
+          "zone": "UTC"
+        },
+        "session": {
+          "live": {
+            "status": true,
+            "price": 199
+          },
+          "download": {
+            "status": true,
+            "price": 299
+          },
+          "transcript": {
+            "status": true,
+            "price": 299
+          }
+        },
+        "corporate": {
+          "status": false,
+          "price": 599,
+          "description": "Exploring the application of machine learning algorithms in the financial sector."
+        }
+      },
+      {
+        "_id": "c3902dbbf02b4b72a29d9ed6",
+        "title": "Creative Design Thinking Workshop",
+        "url": "design-thinking-workshop",
+        "speaker": 2,
+        "type": "Live Session",
+        "industry": "Design",
+        "duration": 90,
+        "event": {
+          "date": "2024-07-10",
+          "time": "16:00",
+          "zone": "UTC"
+        },
+        "session": {
+          "live": {
+            "status": true,
+            "price": 199
+          },
+          "download": {
+            "status": true,
+            "price": 299
+          },
+          "transcript": {
+            "status": true,
+            "price": 299
+          }
+        },
+        "corporate": {
+          "status": false,
+          "price": 449,
+          "description": "Unleash your creativity with this interactive workshop on design thinking principles."
+        }
+      },
+      {
+        "_id": "f9c14d3ce9514c76acbd855b",
+        "title": "Ethical Hacking Masterclass",
+        "url": "ethical-hacking-masterclass",
+        "speaker": 5,
+        "type": "Live Session",
+        "industry": "Cybersecurity",
+        "duration": 120,
+        "event": {
+          "date": "2024-07-25",
+          "time": "19:00",
+          "zone": "UTC"
+        },
+        "session": {
+          "live": {
+            "status": true,
+            "price": 199
+          },
+          "download": {
+            "status": true,
+            "price": 299
+          },
+          "transcript": {
+            "status": true,
+            "price": 299
+          }
+        },
+        "corporate": {
+          "status": false,
+          "price": 699,
+          "description": "Learn the techniques and tools used by ethical hackers to secure digital assets."
+        }
+      },
+      {
+        "_id": "15ac2f6a8ba345e292f7e3e2",
+        "title": "Digital Marketing Trends 2024",
+        "url": "digital-marketing-trends",
+        "speaker": 6,
+        "type": "Recorded Session",
+        "industry": "Marketing",
+        "duration": 90,
+        "event": {
+          "date": "2024-08-10",
+          "time": "13:30",
+          "zone": "UTC"
+        },
+        "session": {
+          "live": {
+            "status": false,
+            "price": 199
+          },
+          "download": {
+            "status": true,
+            "price": 299
+          },
+          "transcript": {
+            "status": false,
+            "price": 229
+          }
+        },
+        "corporate": {
+          "status": false,
+          "price": 449,
+          "description": "Stay ahead of the curve with insights into the latest trends shaping the digital marketing landscape."
+        }
+      },
+      {
+        "_id": "d9481b60cc3a4bf8a2f93d6f",
+        "title": "Java Programming Fundamentals",
+        "url": "java-programming-fundamentals",
+        "speaker": 7,
+        "type": "Live Session",
+        "industry": "Programming",
+        "duration": 120,
+        "event": {
+          "date": "2024-08-25",
+          "time": "17:30",
+          "zone": "UTC"
+        },
+        "session": {
+          "live": {
+            "status": true,
+            "price": 199
+          },
+          "download": {
+            "status": true,
+            "price": 299
+          },
+          "transcript": {
+            "status": true,
+            "price": 299
+          }
+        },
+        "corporate": {
+          "status": false,
+          "price": 549,
+          "description": "Master the fundamentals of Java programming with this comprehensive live session."
+        }
+      },
+      {
+        "_id": "bc30b5b2fb764efcba635345",
+        "title": "AI in Healthcare Symposium",
+        "url": "ai-healthcare-symposium",
+        "speaker": 8,
+        "type": "Live Session",
+        "industry": "Healthcare",
+        "duration": 90,
+        "event": {
+          "date": "2024-09-10",
+          "time": "14:00",
+          "zone": "UTC"
+        },
+        "session": {
+          "live": {
+            "status": true,
+            "price": 199
+          },
+          "download": {
+            "status": true,
+            "price": 299
+          },
+          "transcript": {
+            "status": true,
+            "price": 299
+          }
+        },
+        "corporate": {
+          "status": false,
+          "price": 499,
+          "description": "Explore the impact of artificial intelligence on revolutionizing healthcare practices."
+        }
+      },
+      {
+        "_id": "a9a0d045284149eb94cd5e57",
+        "title": "React Native App Development",
+        "url": "react-native-app-development",
+        "speaker": 1,
+        "type": "Live Session",
+        "industry": "Mobile Development",
+        "duration": 120,
+        "event": {
+          "date": "2024-09-25",
+          "time": "16:30",
+          "zone": "UTC"
+        },
+        "session": {
+          "live": {
+            "status": true,
+            "price": 199
+          },
+          "download": {
+            "status": true,
+            "price": 299
+          },
+          "transcript": {
+            "status": true,
+            "price": 299
+          }
+        },
+        "corporate": {
+          "status": false,
+          "price": 549,
+          "description": "Learn to build cross-platform mobile apps with React Native in this interactive live session."
+        }
+      }
+    
+    ]
+  }
+  
